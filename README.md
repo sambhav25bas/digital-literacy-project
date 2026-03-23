@@ -6,7 +6,6 @@
  Year: 1st Year  
  Course: CSE0001 Digital Literacy  
  University: VIT Bhopal
-I am very keen to learn from this project and interested too as I will learn a lot.
 ## Project Overview
  This Digital Literacy Project is for CSE0001 at VIT Bhopal. The goal of this project is to develop a Digital Literacy Portfolio
  as a Student Digital Ambassador.The project is broken down into five components: create an infographic, create a digital
